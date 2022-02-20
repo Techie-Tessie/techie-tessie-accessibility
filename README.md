@@ -1,2 +1,3 @@
 # techie-tessie-accessibility
-Created with CodeSandbox
+A simple example of accessibility features on HTML and CSS.
+Un ejemplo simple de accesibilidad en HTML y CSS. 
